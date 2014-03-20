@@ -1,0 +1,11 @@
+{
+  "name": "mongodb-url-parser",
+  "version": "0.0.1",
+  "description": "MongoDB URL parser, pulled out of node-mongodb-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephen Belanger <admin@stephenbelanger.com>",
+  "license": "MIT"
+}
